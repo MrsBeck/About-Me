@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrsBeck
+- 👋 Hi, My name is Asia Beck!
 - 👀 I’m interested in ...Software Development
 - 🌱 I’m currently learning ...C#
 - 💞️ I’m looking to collaborate on ...A program to process medical documents faster
